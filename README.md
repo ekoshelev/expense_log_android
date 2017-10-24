@@ -1,2 +1,2 @@
 # expense_log_android
-An app to track expenses
+An android app to track expenses!
